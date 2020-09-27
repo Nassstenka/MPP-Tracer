@@ -1,0 +1,7 @@
+E:\BSUIR\SPP\Lab1\Tracer\bin\Debug\Tracer.dll.config
+E:\BSUIR\SPP\Lab1\Tracer\bin\Debug\Tracer.dll
+E:\BSUIR\SPP\Lab1\Tracer\bin\Debug\Tracer.pdb
+E:\BSUIR\SPP\Lab1\Tracer\obj\Debug\Tracer.csprojAssemblyReference.cache
+E:\BSUIR\SPP\Lab1\Tracer\obj\Debug\Tracer.csproj.CoreCompileInputs.cache
+E:\BSUIR\SPP\Lab1\Tracer\obj\Debug\Tracer.dll
+E:\BSUIR\SPP\Lab1\Tracer\obj\Debug\Tracer.pdb
