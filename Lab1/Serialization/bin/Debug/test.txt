@@ -1,0 +1,36 @@
+{
+  "executionTime": 7938.0,
+  "threadDict": {
+    "1": {
+      "ID": 1,
+      "executionTime": 7938.0,
+      "methods": [
+        {
+          "methodName": "Method1",
+          "className": "Program",
+          "executionTime": 1213.0,
+          "innerMethods": []
+        },
+        {
+          "methodName": "Method2",
+          "className": "Program",
+          "executionTime": 1573.0,
+          "innerMethods": []
+        },
+        {
+          "methodName": "Method3",
+          "className": "Program",
+          "executionTime": 5152.0,
+          "innerMethods": [
+            {
+              "methodName": "Method4",
+              "className": "Program",
+              "executionTime": 5152.0,
+              "innerMethods": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
