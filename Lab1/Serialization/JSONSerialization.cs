@@ -1,12 +1,13 @@
-﻿using Newtonsoft.Json;
+﻿using MyTracer;
+using Newtonsoft.Json;
 
 namespace TestApplication
 {
     class JSONSerialization : ISerializer
     {
-        public string serialize(object obj)
+        public string serialize(TraceResult traceResult)
         {
-            return JsonConvert.SerializeObject(obj, Formatting.Indented);
+            return JsonConvert.SerializeObject(traceResult, Formatting.Indented);
         }
     }
 }

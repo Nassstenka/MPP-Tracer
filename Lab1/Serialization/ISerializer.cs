@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyTracer;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace TestApplication
 {
     interface ISerializer
     {
-        public string serialize(object obj);
+        public string serialize(TraceResult traceResult);
     }
 }
